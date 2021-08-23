@@ -1,5 +1,5 @@
 import { API } from "../../backend";
-import firebase from "../../firebase"
+
 
 // Signup Method
 // For MERN Backend API
